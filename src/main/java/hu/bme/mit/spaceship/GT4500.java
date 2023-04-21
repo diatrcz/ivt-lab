@@ -81,6 +81,7 @@ public class GT4500 implements SpaceShip {
         //TODO implement feature
 
         firingSuccess = true; 
+        System.out.println("owo"); 
 
         break;
     }
