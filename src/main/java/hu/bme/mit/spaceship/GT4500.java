@@ -82,7 +82,6 @@ public class GT4500 implements SpaceShip {
 
         firingSuccess = true; 
         System.out.println("uwu");
-
         break;
     }
 
