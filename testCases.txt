@@ -1,0 +1,4 @@
+1. Fires primary torpedos, but primary is empty - returns false
+2. Fires first that is not empty, then secondary, secondary is also not empty - returns true
+3. Fires fisrt, then fires secondary, but secondary is empty - returns false
+4. Firest first, but it's empty, fires second but it's also empty - returns false
